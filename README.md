@@ -1,5 +1,7 @@
 # DW_ProgramacionJS
-Equipo 18:
+
+<h1>Equipo 18:</h1>
+
 María Fernanda Cota Pérez
 Ernesto Velasco Valdez
 José Antonio Aguilar Téllez
